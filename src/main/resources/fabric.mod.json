@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "portalcraft",
+  "version": "${version}",
+  "name": "Portal Craft",
+  "description": "Portal in Minecraft: portal gun, Portal-style HUD and sounds, read from your own Portal install. F6 switches between the Portal and Minecraft interfaces.",
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["gg.portalcraft.PortalServer"],
+    "client": ["gg.portalcraft.PortalClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21.11",
+    "fabric-api": "*",
+    "java": ">=21"
+  }
+}

@@ -1,0 +1,7 @@
+Portal Craft 1.0.0 (Minecraft 1.21.11, Fabric)
+
+Portal in Minecraft. All Portal textures and sounds are read at runtime from the player's own Portal
+install; none are included in this package.
+
+Portal and Half-Life are trademarks of Valve Corporation. Minecraft is a trademark of Mojang Studios.
+This project is not affiliated with Valve or Mojang.

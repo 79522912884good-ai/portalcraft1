@@ -1,0 +1,9 @@
+{
+  "key.category.portalcraft.main": "Portal Craft",
+  "key.portalcraft.toggle": "Switch Portal / Minecraft interface",
+  "key.portalcraft.reset": "Close both portals",
+  "portalcraft.mode.portal": "Portal interface",
+  "portalcraft.mode.mc": "Minecraft interface",
+  "portalcraft.missing": "Portal not found: %s (set portal_dir in config/portalcraft.properties)",
+  "portalcraft.hud.health": "HEALTH"
+}

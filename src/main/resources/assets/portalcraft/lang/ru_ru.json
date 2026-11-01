@@ -1,0 +1,9 @@
+{
+  "key.category.portalcraft.main": "Portal Craft",
+  "key.portalcraft.toggle": "Переключить интерфейс Portal / Minecraft",
+  "key.portalcraft.reset": "Закрыть оба портала",
+  "portalcraft.mode.portal": "Интерфейс Portal",
+  "portalcraft.mode.mc": "Интерфейс Minecraft",
+  "portalcraft.missing": "Portal не найден: %s (укажите portal_dir в config/portalcraft.properties)",
+  "portalcraft.hud.health": "ЗДОРОВЬЕ"
+}
